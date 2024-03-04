@@ -11,11 +11,15 @@ Welcome to my GitHub repository for the "Data Structures and Algorithms Mastery"
 ## Tasks
 ### Task 1: insert front 
 
-ex: list.insertFront(5).
-    list.insertFront(20).
-    list.insertFront(7).
-    list.print().
-    // 5 20 7
+list.insertFront(5);
+list.insertFront(20);
+list.insertFront(7);
+list.print();
+// Output:
+// 7
+// 20
+// 5
+
 
 ### Task 2: [Task Name 2]
 [Task description goes here.]
