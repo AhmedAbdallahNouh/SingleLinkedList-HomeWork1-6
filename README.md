@@ -2,11 +2,11 @@
 
 ## Course Details
 - **Course Name:** Data Structures and Algorithms Mastery
-- **Instructor:** [Instructor Name]
-- **Course Page:** [Course Page Link]
+- **Instructor:** Mostafa Saad Ibrahim
+- **Course Page:** https://www.linkedin.com/company/cs-get-skilled/
 
 ## Overview
-Welcome to my GitHub repository for the "Data Structures and Algorithms Mastery" course. In this repository, you'll find my solutions to the 6 easy challenges related to single linked lists.
+Welcome to my GitHub repository for the "Data Structures and Algorithms Mastery" course. In this repository, you'll find my solutions to the 5 easy challenges related to single linked lists.
 
 ## Tasks
 ### Task 1: [Task Name 1]
@@ -22,10 +22,14 @@ Welcome to my GitHub repository for the "Data Structures and Algorithms Mastery"
 [Task description goes here.]
 
 ### Task 5: [Task Name 5]
-[Task description goes here.]
-
-### Task 6: [Task Name 6]
-[Task description goes here.]
+insert front 
+ex: list.insertFront(5);
+    list.insertFront(20);
+    list.insertFront(7);
+    list.print()
+    // 5 20 7
+    مهسسيشس
+    مم
 
 ## Repository Structure
 - **/Task1:** Contains the solution for Task 1.
