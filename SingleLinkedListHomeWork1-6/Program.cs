@@ -30,7 +30,8 @@ singleLinkedList.Print();
 
 Console.ForegroundColor = ConsoleColor.Cyan;
 
-Node? nodeAtSpecificPosition = singleLinkedList.GetNodeFromEndByPosition(-1);
+Node? nodeAtSpecificPosition = singleLinkedList.GetNodeFromEndByPosition(2);
+Console.WriteLine($"the data of wanted node : {nodeAtSpecificPosition.data}");
 singleLinkedList.Print();
 
 #endregion
